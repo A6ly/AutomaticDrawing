@@ -1,0 +1,10 @@
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\bin\Debug\AutomaticDrawing.exe.config
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\bin\Debug\AutomaticDrawing.exe
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\bin\Debug\AutomaticDrawing.pdb
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.csprojAssemblyReference.cache
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.MainForm.resources
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.Properties.Resources.resources
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.csproj.GenerateResource.cache
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.csproj.CoreCompileInputs.cache
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.exe
+C:\Users\KimGihyeon\Documents\Visual Studio 2019\Projects\AutomaticDrawing\AutomaticDrawing\obj\Debug\AutomaticDrawing.pdb
