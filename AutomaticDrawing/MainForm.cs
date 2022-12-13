@@ -180,7 +180,7 @@ namespace AutomaticDrawing
                         SetCursorPos(drawX, drawY);
                         ClickMouse(MouseButtons.Left, drawX, drawY, true);
                         ClickMouse(MouseButtons.Left, drawX, drawY, false);
-                        Thread.Sleep(3);
+                        Thread.Sleep(1);
                     }
                 }
             }
