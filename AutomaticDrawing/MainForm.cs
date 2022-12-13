@@ -155,7 +155,7 @@ namespace AutomaticDrawing
                 graphics.Clear(Color.CornflowerBlue);
                 graphics.DrawImage(image, 0, 0, Width, Height);
             }
-            MessageBox.Show("Start button is F5", "AutomaticDrawing", MessageBoxButtons.OK, MessageBoxIcon.None, MessageBoxDefaultButton.Button2, MessageBoxOptions.ServiceNotification);
+            MessageBox.Show("Place the mouse cursor over the Microsoft Paint and press the F5 button to start.", "AutomaticDrawing", MessageBoxButtons.OK, MessageBoxIcon.None, MessageBoxDefaultButton.Button2, MessageBoxOptions.ServiceNotification);
         }
 
         void Draw()
