@@ -89,7 +89,7 @@ namespace AutomaticDrawing
             UnregisterHotKey((int)this.Handle, 0);
         }
 
-        private string getFileName()
+        private string GetFileName()
         {
             using (var ofd = new OpenFileDialog())
             {
@@ -140,7 +140,7 @@ namespace AutomaticDrawing
 
         private void ImportImageButton_Click(object sender, EventArgs e)
         {
-            filename = getFileName();
+            filename = GetFileName();
 
             if(filename == null)
             {
